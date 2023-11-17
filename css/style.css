@@ -500,7 +500,7 @@ button:focus {
 /*----------------------------------------------------*/
 /*============= Start banner_area css =============*/
 .banner_area {
-  background: #04091e;
+  background: #000000;
   position: relative;
   z-index: 1;
 }
@@ -562,7 +562,7 @@ button:focus {
 
 /*============= End banner_area css =============*/
 .hotel_booking_table {
-  background: #04091e;
+  background: #000000;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -673,7 +673,7 @@ button:focus {
 .breadcrumb_area {
   position: relative;
   padding: 172px 0px 84px;
-  background: #04091e;
+  background: #000000;
   z-index: 1;
   overflow: hidden;
 }
@@ -838,7 +838,7 @@ button:focus {
 .facilities_area {
   position: relative;
   z-index: 1;
-  background: #04091e;
+  background: #000000;
   overflow: hidden;
 }
 
@@ -3491,7 +3491,7 @@ h1, h2, h3, h4, h5, h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
-  background: #04091e;
+  background: #000000;
   padding: 142px 0px;
 }
 
