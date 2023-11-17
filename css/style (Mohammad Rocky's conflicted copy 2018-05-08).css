@@ -334,6 +334,8 @@ button:focus {
 }
 
 .navbar .logo_h {
+  width: auto;
+  height: 100px;
   padding-top: 0px;
 }
 

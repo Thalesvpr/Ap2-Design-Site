@@ -329,17 +329,23 @@ button:focus {
 }
 
 .navbar {
-  background: #fff;
+  background: #000000;
   padding: 0px 25px;
 }
 
+.navbar .navbar-expand-lg .navbar-light{
+  padding: 30px;
+}
 .navbar .logo_h {
   padding-top: 0px;
 }
-
+.logo_img{
+  width: auto;
+  height: 100px;
+}
 .navbar .menu_nav .nav-item .nav-link {
   font: 500 12px/80px "Poppins", sans-serif;
-  color: #222222;
+  color: #777777;
   text-transform: uppercase;
   padding: 0px;
 }
@@ -677,6 +683,14 @@ button:focus {
   opacity: 0.50;
   z-index: -1;
 }
+#shavel{
+ position: absolute;
+ position: absolute;
+ top: 0; /* Alinha ao topo do contêiner */
+ right: 0; /* Alinha à direita do contêiner */
+ width: 1100px; /* Largura da imagem */
+ height: auto; /* Mantém a proporção da imagem */
+} 
 
 .page-cover-tittle {
   display: block;
@@ -3602,3 +3616,6 @@ h1, h2, h3, h4, h5, h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+.navbar .navbar-expand-lg .navbar-light{
+  padding: 30px;
+}
